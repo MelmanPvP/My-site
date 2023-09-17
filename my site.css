@@ -1,0 +1,33 @@
+body{
+
+
+}
+.footer
+{
+    color: saddlebrown;
+}
+.navbar
+{
+    background-color: yellowgreen;
+ padding-bottom: 2px;
+    padding-top: 2px;
+}
+.navbar a
+{
+    color: blue;
+    font-size: 30px
+}
+.info
+{
+    font-size: 30px
+
+}
+ul
+{
+    font-size: 30px
+
+}
+h1
+{
+    font-family: "Felix Titling", sans-serif;
+}
